@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		BE0712072BFB56D6008D936E /* AddViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE0712062BFB56D6008D936E /* AddViewController.swift */; };
 		BED6F8B62BF9E7DE00B88EC9 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BED6F8B52BF9E7DE00B88EC9 /* AppDelegate.swift */; };
 		BED6F8B82BF9E7DE00B88EC9 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BED6F8B72BF9E7DE00B88EC9 /* SceneDelegate.swift */; };
 		BED6F8BA2BF9E7DE00B88EC9 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BED6F8B92BF9E7DE00B88EC9 /* ViewController.swift */; };
@@ -35,6 +36,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		BE0712062BFB56D6008D936E /* AddViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddViewController.swift; sourceTree = "<group>"; };
 		BED6F8B22BF9E7DE00B88EC9 /* MyReminders.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MyReminders.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		BED6F8B52BF9E7DE00B88EC9 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		BED6F8B72BF9E7DE00B88EC9 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -106,6 +108,7 @@
 				BED6F8BE2BF9E7E000B88EC9 /* Assets.xcassets */,
 				BED6F8C02BF9E7E000B88EC9 /* LaunchScreen.storyboard */,
 				BED6F8C32BF9E7E000B88EC9 /* Info.plist */,
+				BE0712062BFB56D6008D936E /* AddViewController.swift */,
 			);
 			path = MyReminders;
 			sourceTree = "<group>";
@@ -260,6 +263,7 @@
 			files = (
 				BED6F8BA2BF9E7DE00B88EC9 /* ViewController.swift in Sources */,
 				BED6F8B62BF9E7DE00B88EC9 /* AppDelegate.swift in Sources */,
+				BE0712072BFB56D6008D936E /* AddViewController.swift in Sources */,
 				BED6F8B82BF9E7DE00B88EC9 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
